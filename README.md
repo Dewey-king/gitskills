@@ -1,3 +1,3 @@
 # gitskills
 # creating a new branch is quick.
-# this is test merge2.
+# creating a new branch test merge.
